@@ -1,0 +1,13 @@
+.navbar-hover ul li a:hover {
+    border-bottom: 1px solid #F5A637;
+}
+
+.btn {
+    border-radius: 0px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+}
+
+banner-text h6 {
+    color: #F5A637;
+}
