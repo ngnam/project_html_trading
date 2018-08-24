@@ -1,0 +1,17 @@
+.banner-h h2 {
+    font-size: 3em;
+}
+
+.vision-text {
+    border: 3px solid #F5A637;
+    margin-top: 10px;
+    padding-top: 0px;
+}
+
+.hereincowork-content p {
+    text-align: left;
+}
+
+.hereincowork-content p:last-child {
+    text-align: center;
+}
